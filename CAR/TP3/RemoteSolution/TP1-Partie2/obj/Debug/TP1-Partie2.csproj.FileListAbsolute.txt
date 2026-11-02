@@ -1,0 +1,57 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\bin\Debug\TP1-Partie2.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\bin\Debug\TP1-Partie2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\bin\Debug\TP1-Partie2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\obj\Debug\TP1-Partie2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\obj\Debug\TP1_Partie2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\obj\Debug\TP1-Partie2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\obj\Debug\TP1-Partie2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP11\TP1-Partie2\obj\Debug\TP1_Partie2.Calculatrice.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\bin\Debug\TP1-Partie2.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\bin\Debug\TP1-Partie2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\bin\Debug\TP1-Partie2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\obj\Debug\TP1-Partie2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\obj\Debug\TP1_Partie2.Calculatrice.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\obj\Debug\TP1_Partie2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\obj\Debug\TP1-Partie2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1\TP1-Partie2\obj\Debug\TP1-Partie2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\bin\Debug\TP1-Partie2.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\bin\Debug\TP1-Partie2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\bin\Debug\TP1-Partie2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1_Partie2.Calculatrice.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1_Partie2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.pdb
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\bin\Debug\TP1-Partie2.exe.config
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\bin\Debug\TP1-Partie2.exe
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\bin\Debug\TP1-Partie2.pdb
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1_Partie2.Calculatrice.resources
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1_Partie2.Properties.Resources.resources
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.GenerateResource.Cache
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.exe
+E:\2. Others\CAR-2022\Cours---2021-2022\Cours #1---Introduction CAR\TP1---Introduction C#\TP1---Introduction C#\TP1-Partie2\obj\Debug\TP1-Partie2.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\bin\Debug\TP1-Partie2.exe.config
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\bin\Debug\TP1-Partie2.exe
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\bin\Debug\TP1-Partie2.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.csprojResolveAssemblyReference.cache
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\obj\Debug\TP1_Partie2.Calculatrice.resources
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\obj\Debug\TP1_Partie2.Properties.Resources.resources
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.GenerateResource.Cache
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.exe
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.pdb
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1_Partie2.Calculatrice.resources
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1_Partie2.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\bin\Debug\TP1-Partie2.exe.config
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\bin\Debug\TP1-Partie2.exe
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\bin\Debug\TP1-Partie2.pdb
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\bin\Debug\RemotingInterfaces.dll
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\bin\Debug\RemotingInterfaces.pdb
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Part.34516574.Up2Date
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.exe
+C:\Users\ASUS\source\repos\TP2---Socket\TP1-Partie2\obj\Debug\TP1-Partie2.pdb

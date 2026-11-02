@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0E2C2-FC44-47CE-B61C-6B3A51254E09}|RemotingServer1\\RemotingServer1.csproj|D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\remotingserver1\\remotemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0E2C2-FC44-47CE-B61C-6B3A51254E09}|RemotingServer1\\RemotingServer1.csproj|solutionrelative:remotingserver1\\remotemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB0E2C2-FC44-47CE-B61C-6B3A51254E09}|RemotingServer1\\RemotingServer1.csproj|D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\remotingserver1\\remoteoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB0E2C2-FC44-47CE-B61C-6B3A51254E09}|RemotingServer1\\RemotingServer1.csproj|solutionrelative:remotingserver1\\remoteoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA283248-536C-476A-A5DA-CA6EFB29F2B3}|RemotingInterfaces\\RemotingInterfaces.csproj|D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\remotinginterfaces\\iremoteoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA283248-536C-476A-A5DA-CA6EFB29F2B3}|RemotingInterfaces\\RemotingInterfaces.csproj|solutionrelative:remotinginterfaces\\iremoteoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB37E19-411F-4CEF-AF63-6C07D1CBC061}|RemoteSolution\\RemoteSolution.csproj|D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\remotesolution\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB37E19-411F-4CEF-AF63-6C07D1CBC061}|RemoteSolution\\RemoteSolution.csproj|solutionrelative:remotesolution\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\tp2---socket\\tp1-partie2\\calculatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculatrice.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.resx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-30T15:27:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calculatrice.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:25:17.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculatrice.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAwwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:32:30.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculatrice.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Calculatrice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:32:24.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TP2---Socket\\TP1-Partie2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:30:07.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemoteOperation.cs",
+              "DocumentMoniker": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemotingServer1\\RemoteOperation.cs",
+              "RelativeDocumentMoniker": "RemotingServer1\\RemoteOperation.cs",
+              "ToolTip": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemotingServer1\\RemoteOperation.cs",
+              "RelativeToolTip": "RemotingServer1\\RemoteOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:07:18.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteMain.cs",
+              "DocumentMoniker": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemotingServer1\\RemoteMain.cs",
+              "RelativeDocumentMoniker": "RemotingServer1\\RemoteMain.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RemoteSolution\\RemotingServer1\\RemoteMain.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:07:02.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRemoteOperation.cs",
+              "DocumentMoniker": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemotingInterfaces\\IRemoteOperation.cs",
+              "RelativeDocumentMoniker": "RemotingInterfaces\\IRemoteOperation.cs",
+              "ToolTip": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemotingInterfaces\\IRemoteOperation.cs",
+              "RelativeToolTip": "RemotingInterfaces\\IRemoteOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:58:50.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemoteSolution\\Class1.cs",
+              "RelativeDocumentMoniker": "RemoteSolution\\Class1.cs",
+              "ToolTip": "D:\\Master-RSD\\M2-RSD-S1\\CAR\\TP3\\RemoteSolution\\RemoteSolution\\Class1.cs",
+              "RelativeToolTip": "RemoteSolution\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T12:50:41.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

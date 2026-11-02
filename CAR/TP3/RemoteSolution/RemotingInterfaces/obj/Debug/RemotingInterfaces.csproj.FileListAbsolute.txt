@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\RemoteSolution\RemotingInterfaces\bin\Debug\RemotingInterfaces.dll
+C:\Users\ASUS\source\repos\RemoteSolution\RemotingInterfaces\bin\Debug\RemotingInterfaces.pdb
+C:\Users\ASUS\source\repos\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.dll
+C:\Users\ASUS\source\repos\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.pdb
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemotingInterfaces\bin\Debug\RemotingInterfaces.dll
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemotingInterfaces\bin\Debug\RemotingInterfaces.pdb
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.AssemblyReference.cache
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.csproj.CoreCompileInputs.cache
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.dll
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemotingInterfaces\obj\Debug\RemotingInterfaces.pdb

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "..\\TP2---Socket\\TP1-Partie2\\TP1-Partie2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "RemotingServer1\\RemotingServer1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

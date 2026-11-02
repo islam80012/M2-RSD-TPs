@@ -1,0 +1,15 @@
+E:\Calculatrice2\Serveur\bin\Debug\Serveur.exe.config
+E:\Calculatrice2\Serveur\bin\Debug\Serveur.exe
+E:\Calculatrice2\Serveur\bin\Debug\Serveur.pdb
+E:\Calculatrice2\Serveur\obj\Debug\Serveur.exe
+E:\Calculatrice2\Serveur\obj\Debug\Serveur.pdb
+E:\Calculatrice2\Serveur\obj\Debug\UdpServeur.csprojResolveAssemblyReference.cache
+E:\TP2---Socket\Serveur\bin\Debug\Serveur.exe.config
+E:\TP2---Socket\Serveur\obj\Debug\Serveur.exe
+E:\TP2---Socket\Serveur\obj\Debug\Serveur.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Serveur\bin\Debug\Serveur.exe.config
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Serveur\obj\Debug\Serveur.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Serveur\bin\Debug\Serveur.exe
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Serveur\bin\Debug\Serveur.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Serveur\obj\Debug\UdpServeur.csprojResolveAssemblyReference.cache
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Serveur\obj\Debug\Serveur.exe

@@ -1,0 +1,20 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Calculatrice2\Client\bin\Debug\Client.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Calculatrice2\Client\bin\Debug\Client.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Calculatrice2\Client\bin\Debug\Client.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Calculatrice2\Client\obj\Debug\Client.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Calculatrice2\Client\obj\Debug\Client.pdb
+E:\Calculatrice2\Client\bin\Debug\Client.exe
+E:\Calculatrice2\Client\bin\Debug\Client.exe.config
+E:\Calculatrice2\Client\bin\Debug\Client.pdb
+E:\Calculatrice2\Client\obj\Debug\Client.exe
+E:\Calculatrice2\Client\obj\Debug\Client.pdb
+E:\Calculatrice2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\TP2---Socket\Client\bin\Debug\Client.exe.config
+E:\TP2---Socket\Client\obj\Debug\Client.exe
+E:\TP2---Socket\Client\obj\Debug\Client.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Client\bin\Debug\Client.exe.config
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Client\obj\Debug\Client.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Client\bin\Debug\Client.exe
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Client\bin\Debug\Client.pdb
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\2. Others\5. CAR-2024\Cours #3---Sockets\TP #2---Sockets\TP2---Socket\Client\obj\Debug\Client.exe

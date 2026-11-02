@@ -1,0 +1,6 @@
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemoteSolution\bin\Debug\RemoteSolution.dll
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemoteSolution\bin\Debug\RemoteSolution.pdb
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemoteSolution\obj\Debug\RemoteSolution.csproj.AssemblyReference.cache
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemoteSolution\obj\Debug\RemoteSolution.csproj.CoreCompileInputs.cache
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemoteSolution\obj\Debug\RemoteSolution.dll
+D:\Master-RSD\M2-RSD-S1\CAR\TP3\RemoteSolution\RemoteSolution\obj\Debug\RemoteSolution.pdb
