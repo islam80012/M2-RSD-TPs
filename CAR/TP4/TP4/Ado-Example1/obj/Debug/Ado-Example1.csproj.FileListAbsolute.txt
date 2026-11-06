@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\TP4\TP4\bin\Debug\TP4.exe.config
+C:\Users\ASUS\source\repos\TP4\TP4\bin\Debug\TP4.exe
+C:\Users\ASUS\source\repos\TP4\TP4\bin\Debug\TP4.pdb
+C:\Users\ASUS\source\repos\TP4\TP4\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ASUS\source\repos\TP4\TP4\obj\Debug\Ado-Example1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TP4\TP4\obj\Debug\Ado-Example1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TP4\TP4\obj\Debug\Ado-Exam.2B004E09.Up2Date
+C:\Users\ASUS\source\repos\TP4\TP4\obj\Debug\TP4.exe
+C:\Users\ASUS\source\repos\TP4\TP4\obj\Debug\TP4.pdb

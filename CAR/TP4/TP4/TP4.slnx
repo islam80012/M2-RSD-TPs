@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ado-Exemple2/Ado-Exemple2.csproj" Id="b8bc27db-088a-4e57-a8c1-f13b6f631b3f">
+    <Platform Solution="*|x64" Project="x64" />
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+  <Project Path="Ado-Exemple3/Ado-Exemple3.csproj" Id="1fe2f3f5-beb5-4f9b-9ddb-d1502b183f9f" />
+  <Project Path="Ado-Exemple4/Ado-Exemple4.csproj" Id="b2855448-ef3c-4e45-9246-9d927acee3ef" />
+  <Project Path="Ado-Exemple5/Ado-Exemple5.csproj" Id="39f23ece-3ba6-415e-97bb-edeb902fbf10" />
+  <Project Path="TP4/Ado-Example1.csproj" Id="1531a298-2495-40bd-a58e-276c31746aba" />
+</Solution>

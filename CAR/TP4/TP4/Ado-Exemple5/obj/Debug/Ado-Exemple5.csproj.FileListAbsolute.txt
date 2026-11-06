@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\bin\Debug\Ado-Exemple5.exe.config
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\bin\Debug\Ado-Exemple5.exe
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\bin\Debug\Ado-Exemple5.pdb
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\bin\Debug\Oracle.DataAccess.dll
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado-Exemple5.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado_Exemple5.Form1.resources
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado_Exemple5.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado-Exemple5.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado-Exemple5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado-Exem.C1D1317D.Up2Date
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado-Exemple5.exe
+C:\Users\ASUS\source\repos\TP4\Ado-Exemple5\obj\Debug\Ado-Exemple5.pdb
