@@ -24,3 +24,9 @@ Introduction to network simulation using OMNeT++ and C++.
 2. Build project to generate files RoutageMsg_m.h and RoutageMsg_m.cc
 3. than add Noeud.cc
 4. Noeud.h is unchanged for now .
+
+## TP4 Exercises 
+## 1- Communication Synchrone 
+1. Create Noeud.ned,omnetpp.ini and Addition.msg first .
+2. Build project to generate files Addition_m.h and Addition_m.cc .
+3. Than Add both Noeud.cc and Noeud.h .
