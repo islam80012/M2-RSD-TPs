@@ -24,7 +24,8 @@ namespace Ado_Exemple5
             InitializeComponent();
         }
         //______________________________________________________________________________________________// 
-        private void Afficher_Click(object sender, EventArgs e)
+        // Recharge la table Etudiant dans le DataGridView
+        private void ChargerGrille()
         {
             string cmdQuery = "SELECT * FROM Etudiant ORDER BY matricule";
             OracleDataAdapter myAdapter = new OracleDataAdapter(cmdQuery, con);
@@ -33,6 +34,11 @@ namespace Ado_Exemple5
             myAdapter.Fill(ds, "TableOracle");
             DataView dvSample = ds.Tables["TableOracle"].DefaultView;
             dataGridView1.DataSource = dvSample;
+        }
+        //______________________________________________________________________________________________// 
+        private void Afficher_Click(object sender, EventArgs e)
+        {
+            ChargerGrille();
             textBox1.Focus();
         }
         //______________________________________________________________________________________________// 
@@ -43,11 +49,69 @@ namespace Ado_Exemple5
         //______________________________________________________________________________________________// 
         private void Form1_Load(object sender, EventArgs e)
         {
-            textBox1.Clear(); textBox1.Focus();
+            textBox1.Clear(); textBox3.Focus();
             con = new OracleConnection();
             string oradb = "Data Source=localhost:1521/XEPDB1; User Id=oracle; Password=manager;";
+            // Example de connexion à la base de données Oracle dans une base de données distantes
+            //string oradb = "Data Source=10.27.211.1; User Id=oracle; Password=manager;";
             con = new OracleConnection(oradb);
             con.Open();
+        }
+        //______________________________________________________________________________________________// 
+        private void Ajouter_Click(object sender, EventArgs e)
+        {
+            // 1. Vérifier que les 3 champs sont remplis
+            if (string.IsNullOrWhiteSpace(textBox3.Text) ||
+                string.IsNullOrWhiteSpace(textBox4.Text) ||
+                string.IsNullOrWhiteSpace(textBox5.Text))
+            {
+                MessageBox.Show("Veuillez remplir les 3 champs : matricule, nom et prénom.",
+                                "Champs manquants", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // 2. Le matricule doit être un entier
+            int matricule;
+            if (!int.TryParse(textBox3.Text.Trim(), out matricule))
+            {
+                MessageBox.Show("Le matricule doit être un nombre entier.",
+                                "Matricule invalide", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                textBox3.Focus();
+                return;
+            }
+
+            try
+            {
+                if (con.State != ConnectionState.Open) con.Open();
+
+                // 3. Requête paramétrée (évite les erreurs avec les apostrophes et l'injection SQL)
+                SQL = "INSERT INTO Etudiant (matricule, nom, prenom) VALUES (:mat, :nom, :prenom)";
+                cmd = new OracleCommand(SQL, con);
+                cmd.CommandType = CommandType.Text;
+                cmd.BindByName = true;
+                cmd.Parameters.Add("mat", OracleDbType.Int32).Value = matricule;
+                cmd.Parameters.Add("nom", OracleDbType.Varchar2).Value = textBox4.Text.Trim();
+                cmd.Parameters.Add("prenom", OracleDbType.Varchar2).Value = textBox5.Text.Trim();
+
+                int x = cmd.ExecuteNonQuery();
+                if (x == 1)
+                {
+                    MessageBox.Show("Étudiant ajouté avec succès...", "Succès",
+                                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    textBox3.Clear(); textBox4.Clear(); textBox5.Clear();
+                    textBox3.Focus();
+                    ChargerGrille();
+                }
+            }
+            catch (OracleException ex)
+            {
+                if (ex.Number == 1) // ORA-00001 : contrainte d'unicité violée
+                    MessageBox.Show("Ce matricule existe déjà.", "Doublon",
+                                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                else
+                    MessageBox.Show("Erreur Oracle : " + ex.Message, "Erreur",
+                                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
         //______________________________________________________________________________________________// 
         private void Modifier_Click(object sender, EventArgs e)
