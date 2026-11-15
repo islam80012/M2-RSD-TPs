@@ -1,0 +1,12 @@
+# Ignore les dossiers .vs partout dans le projet
+.vs/
+
+# Ignore les dossiers bin et obj partout (dans n'importe quel sous-dossier)
+[Bb]in/
+[Oo]bj/
+
+# Fichiers de cache et utilisateurs Visual Studio
+*.suo
+*.user
+*.userosscache
+*.cache

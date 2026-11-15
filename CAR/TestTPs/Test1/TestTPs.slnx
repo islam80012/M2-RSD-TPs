@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Test1/">
+    <Project Path="Client7/Client.csproj" Id="7a0c126f-4919-425a-aa0e-2c8b5d944c61" />
+    <Project Path="Interfaces/Interfaces.csproj" Id="d1975787-b0da-46b5-a424-4c548d830be9" />
+    <Project Path="Server/Server.csproj" Id="f2f3c3d3-0116-4742-9830-8a99a51b3b02" />
+  </Folder>
+  <Project Path="TestTPs/TestTPs.csproj" Id="50055105-b59d-44c4-8620-242bd0139ebf" />
+</Solution>
