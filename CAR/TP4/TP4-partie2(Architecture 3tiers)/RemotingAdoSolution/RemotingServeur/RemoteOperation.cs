@@ -9,12 +9,15 @@ namespace RemotingServer
     public class RemoteOperation : MarshalByRefObject,
                                   IRemoteOperation
     {
-        // Une seule déclaration de la connexion
         // lien vers une BD oracle 21C service /XEPDB1  : "Data Source=localhost:1521/XEPDB1; User Id=oracle; Password=manager;";
+        
         // lien vers Prof BD : 
         private string oradb =
              "Data Source = 10.145.254.1/XE; User Id = oracle; Password = manager;";
 
+        // si vous avez une erreur avec oracleDataAccess : supprimer la référence et ajouter votre propre référence vers oracle.DataAccess.dll ,
+        // vous trouver fichier.dll dans un chemin comme celui par example : D:\Oracle\dbhomeXE\ODP.NET\bin\4\Oracle.DataAccess.dll
+        
         // Méthode pour créer une connexion
         private OracleConnection GetConnection()
         {

@@ -109,3 +109,71 @@ Dans vos fichiers de code C# (`Connection.cs` ou `Form1.cs`), la chaîne de conn
 string oradb = "Data Source=localhost:1521/XEPDB1; User Id=oracle; Password=manager;";
 OracleConnection conn = new OracleConnection(oradb);
 ```
+
+---
+
+## 5. TP4 – Partie 2 : Application Distribuée avec C#, Remoting et Oracle
+
+Cette deuxième partie du TP4 consiste à développer une application de gestion des étudiants en utilisant une **architecture à trois tiers** :
+
+1. **Client Windows Forms** : interface graphique permettant d'ajouter, afficher, rechercher, modifier et supprimer des étudiants.
+2. **Serveur Console** : expose les opérations à distance à travers .NET Remoting et l'interface partagée.
+3. **Base de données Oracle** : assure la persistance des données à l'aide d'ADO.NET et de `Oracle.DataAccess.Client`.
+
+### 5.1. Architecture du projet
+
+Le projet est organisé en trois parties :
+
+- `RemotingInterface` : bibliothèque de classes contenant l'interface `IRemoteOperation`, qui définit les méthodes accessibles à distance.
+- `RemotingServer` : application Console contenant la classe `RemoteOperation`, qui implémente les méthodes CRUD et communique avec Oracle.
+- `RemotingClient` : application Windows Forms qui appelle les méthodes du serveur et affiche les résultats dans un `DataGridView`.
+
+### 5.2. Configuration de la connexion Oracle
+
+La chaîne de connexion utilisée dans le serveur est :
+
+```csharp
+private string oradb =
+    "Data Source=localhost:1521/XEPDB1; User Id=oracle; Password=manager;";
+```
+
+La connexion est centralisée dans la classe `RemoteOperation` afin d'éviter de répéter la chaîne de connexion dans chaque méthode.
+
+Une méthode dédiée permet de créer les connexions :
+
+```csharp
+private OracleConnection GetConnection()
+{
+    return new OracleConnection(oradb);
+}
+```
+
+Chaque opération ouvre et libère sa propre connexion avec `using`.
+
+### 5.3. Opérations disponibles
+
+L'application permet d'effectuer les opérations suivantes sur la table `Etudiant` :
+
+| Méthode | Opération SQL | Description |
+|---|---|---|
+| `Afficher()` | SELECT | Afficher tous les étudiants |
+| `Ajouter()` | INSERT | Ajouter un étudiant |
+| `Supprimer()` | DELETE | Supprimer un étudiant par matricule |
+| `Modifier()` | UPDATE | Modifier les informations d'un étudiant |
+| `Rechercher()` | SELECT | Rechercher un étudiant par matricule |
+
+### 5.4. Exécution du projet
+
+Pour lancer correctement l'application :
+
+1. Vérifier que le service Oracle `XEPDB1` est démarré.
+2. Vérifier que la table `Etudiant` existe et que l'utilisateur `oracle` possède les privilèges nécessaires.
+3. Vérifier que la référence `Oracle.DataAccess.dll` est ajoutée aux projets concernés.
+4. Vérifier la compatibilité de la plateforme cible (`x64` si nécessaire selon l'installation Oracle).
+5. Démarrer le projet `RemotingServer` en premier.
+6. Démarrer ensuite le projet `RemotingClient`.
+7. Tester les opérations CRUD depuis l'interface Windows Forms.
+
+**Remarque :** Cette partie complète les exemples ADO.NET de la première partie du TP4 en introduisant la communication distante entre un client et un serveur.
+
+---
